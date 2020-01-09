@@ -16,6 +16,7 @@
         <StackPanel Grid.Row="0" Grid.Column="0" VerticalAlignment="Top" Height="246" Margin="0,0,0,0">
             <Image x:Name="pic_box" Source="pic/pic_1.png" Stretch="Uniform" Grid.Row="0" Grid.Column="0" Height="210" Width="245" HorizontalAlignment="Left"/>
         </StackPanel>
+    
 
         <StackPanel Grid.Row="0" VerticalAlignment="Top" Height="246" Grid.ColumnSpan="2" Margin="362,0,0,0">
             <TextBlock Text="Доступ к справочной системе" VerticalAlignment="Center" FontFamily="Consolas" FontSize="27 px" FontWeight="Bold" Foreground="Red" HorizontalAlignment="Right" Margin="0,110,10,0" Width="400"></TextBlock>
